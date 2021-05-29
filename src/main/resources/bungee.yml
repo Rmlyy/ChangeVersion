@@ -1,0 +1,4 @@
+name: ChangeVersion
+version: ${project.version}
+main: dev.rmly.changeversion.ChangeVersion
+description: Lightweight plugin used to change the BungeeCord version name.
